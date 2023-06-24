@@ -1,0 +1,1862 @@
+[
+    {
+        "id": 1,
+        "img": "https://marvel-b1-cdn.bc0a.com/f00000000026007/resilienteducator.com/wp-content/uploads/2012/11/AdobeStock_60467600_cup.jpg",
+        "name": "Math",
+        
+            "questions": [
+              {
+                "id": 1,
+                "text": "What is the value of π (pi) approximately?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "3.141",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "3.142",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "3.1415",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "3.14159",
+                    "isCorrect": true
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "text": "What is the square root of 144?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "10",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "12",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "14",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "16",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "text": "Simplify the expression: 3x + 5 - 2x + 7",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "x + 12",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "x + 2",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "x + 12 + 7",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "x + 12 + 7 - 2x",
+                    "isCorrect": true
+                  }
+                ]
+              },
+              {
+                "id": 4,
+                "text": "What is the product of 7 and 9?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "54",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "63",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "72",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "81",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 5,
+                "text": "What is the value of 5 factorial (5!)?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "15",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "120",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "25",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "500",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 6,
+                "text": "What is the value of 2 to the power of 4 (2^4)?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "4",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "8",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "16",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "32",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 7,
+                "text": "Solve the equation: 2x + 5 = 13",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "x = 6",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "x = 7",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "x = 8",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "x = 9",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 8,
+                "text": "Find the area of a rectangle with length 6 units and width 4 units.",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "10 square units",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "16 square units",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "20 square units",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "24 square units",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 9,
+                "text": "What is the value of 3 squared (3^2)?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "6",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "9",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "12",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "15",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 10,
+                "text": "Simplify the expression: 2(x + 3) - 5(x - 2)",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "-3x + 16",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "-3x - 16",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "3x + 16",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "3x - 16",
+                    "isCorrect": false
+                  }
+                ]
+              }
+            ]
+          
+          
+    },
+    {
+        "id": 2,
+        "img": "https://courses.lumenlearning.com/wm-biologynonmajors1/wp-content/uploads/sites/2318/2017/08/dna_cover1.jpg",
+        "name": "Biology",
+        
+            "questions": [
+              {
+                "id": 1,
+                "text": "What is the powerhouse of the cell?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Nucleus",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Mitochondria",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Chloroplast",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Golgi apparatus",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "text": "Which of the following is the largest organ in the human body?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Heart",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Liver",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Brain",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Lung",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "text": "What is the function of white blood cells?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Carry oxygen",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Fight infection",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Digest food",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Transport nutrients",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 4,
+                "text": "Which of the following is responsible for carrying genetic information in cells?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Ribosomes",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Lysosomes",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "DNA",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "RNA",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 5,
+                "text": "What is the process by which plants convert sunlight into energy?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Photosynthesis",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Respiration",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Fermentation",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Transpiration",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 6,
+                "text": "Which of the following is responsible for carrying oxygen in the blood?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Red blood cells",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "White blood cells",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Platelets",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Plasma",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 7,
+                "text": "Which of the following is responsible for the sense of taste?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Taste buds",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Cilia",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Pupil",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Cochlea",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 8,
+                "text": "Which of the following is responsible for the production of insulin?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Pancreas",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Liver",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Kidney",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Gallbladder",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 9,
+                "text": "Which of the following is responsible for the production of antibodies?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Liver",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Spleen",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Bone marrow",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Lymph nodes",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 10,
+                "text": "What is the process by which a cell divides into two daughter cells?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Mitosis",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Meiosis",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Fertilization",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Differentiation",
+                    "isCorrect": false
+                  }
+                ]
+              }
+            ]
+          
+          
+    },
+    {
+        "id": 3,
+        "img": "http://jobs.newscientist.com/getasset/c40a5488-11be-43b0-843f-a2e6ef9f0612/",
+        "name": "Chemistry",
+        
+            "questions": [
+              {
+                "id": 1,
+                "text": "What is the chemical symbol for gold?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Au",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Ag",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Cu",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Fe",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "text": "What is the chemical formula for water?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "H2O",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "CO2",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "CH4",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "NaCl",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "text": "What is the pH value of a neutral solution?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "0",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "7",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "14",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "10",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 4,
+                "text": "Which of the following is a noble gas?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Oxygen",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Hydrogen",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Helium",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Nitrogen",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 5,
+                "text": "What is the chemical formula for methane?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "CH4",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "CO2",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "H2O",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "NaCl",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 6,
+                "text": "What is the atomic number of carbon?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "6",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "8",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "12",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "16",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 7,
+                "text": "What is the chemical formula for sulfuric acid?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "H2SO4",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "HCl",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "NaOH",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "HNO3",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 8,
+                "text": "Which of the following elements is a halogen?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Sodium",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Chlorine",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Calcium",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Potassium",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 9,
+                "text": "Which of the following is an example of a physical change?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Burning wood",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Rusting of iron",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Melting ice",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Cooking an egg",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 10,
+                "text": "What is the chemical formula for table salt?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "NaCl",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "H2O",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "CO2",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "CaCl2",
+                    "isCorrect": false
+                  }
+                ]
+              }
+            ]
+          
+          
+    },
+    {
+        "id": 4,
+        "img": "https://api.triviacreator.com/v1/imgs/quiz/set-geography-symbols-equipments-web-banners-vintage-outline-sketch-web-banners-doodle-style-education-concept-back-to-136641038-b09c2ce0-5fe7-4cb4-b1c9-9b97e6649172.jpg",
+        "name": "Geography",
+        
+            "questions": [
+              {
+                "id": 1,
+                "text": "What is the capital city of Australia?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Sydney",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Melbourne",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Canberra",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Perth",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "text": "Which country is known as the 'Land of the Rising Sun'?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "China",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Japan",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Thailand",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "India",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "text": "What is the largest desert in the world?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Sahara Desert",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Gobi Desert",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Atacama Desert",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Arabian Desert",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 4,
+                "text": "Which continent is home to the Amazon Rainforest?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "North America",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "South America",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Africa",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Asia",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 5,
+                "text": "Which river is the longest in the world?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Nile River",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Amazon River",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Yangtze River",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Mississippi River",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 6,
+                "text": "Which country is both an island and a continent?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "New Zealand",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Australia",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Madagascar",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Greenland",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 7,
+                "text": "Which country is famous for its tulips and windmills?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Germany",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "France",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Netherlands",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Denmark",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 8,
+                "text": "Which city is located on two continents?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Istanbul",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Cairo",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Moscow",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Athens",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 9,
+                "text": "Which country is the smallest in the world?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Monaco",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Maldives",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Vatican City",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "San Marino",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 10,
+                "text": "Which mountain range is located in South America?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Himalayas",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Andes",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Rocky Mountains",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Alps",
+                    "isCorrect": false
+                  }
+                ]
+              }
+            ]
+          
+          
+    },
+    {
+        "id": 5,
+        "img": "https://media.istockphoto.com/id/1092170968/vector/open-book-with-history-doodles-and-lettering.jpg?s=612x612&w=0&k=20&c=SvXn0O25eHC8ARjwlcn83kahxjMGl2ti_DDFGozBKqg=",
+        "name": "History",
+        
+            "questions": [
+              {
+                "id": 1,
+                "text": "Which event marked the beginning of World War I?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Assassination of Archduke Franz Ferdinand",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Dropping of the Atomic Bomb",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Signing of the Treaty of Versailles",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Boston Tea Party",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "text": "Who was the leader of the Soviet Union during World War II?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Joseph Stalin",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Adolf Hitler",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Winston Churchill",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Benito Mussolini",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "text": "Which city hosted the Ancient Olympics in ancient Greece?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Athens",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Sparta",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Olympia",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Delphi",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 4,
+                "text": "Who was the first female Prime Minister of the United Kingdom?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Margaret Thatcher",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Queen Elizabeth II",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Theresa May",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Angela Merkel",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 5,
+                "text": "Which country was the first to reach the Moon?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "United States",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Russia",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "China",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Germany",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 6,
+                "text": "Who painted the Mona Lisa?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Leonardo da Vinci",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Pablo Picasso",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Vincent van Gogh",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Michelangelo",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 7,
+                "text": "Which civilization built the Machu Picchu citadel in Peru?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Mayans",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Aztecs",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Incas",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Inuit",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 8,
+                "text": "Who is known for discovering America?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Christopher Columbus",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Ferdinand Magellan",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Captain James Cook",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Marco Polo",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 9,
+                "text": "In which year did the Berlin Wall fall?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "1989",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "1961",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "1945",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "1991",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 10,
+                "text": "Which famous scientist developed the theory of relativity?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Albert Einstein",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Isaac Newton",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Charles Darwin",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Marie Curie",
+                    "isCorrect": false
+                  }
+                ]
+              }
+            ]
+          
+          
+    },
+    {
+        "id": 6,
+        "img": "https://d20x1nptavktw0.cloudfront.net/wordpress_media/2022/04/Blog-Image-30-654x536.jpg",
+        "name": "Physics",
+        
+            "questions": [
+              {
+                "id": 1,
+                "text": "What is the SI unit of electric current?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Ampere",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Watt",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Volt",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Ohm",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "text": "Which scientist formulated the three laws of motion?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Isaac Newton",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Albert Einstein",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Niels Bohr",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Galileo Galilei",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "text": "What is the speed of light in a vacuum?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "299,792 kilometers per second",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "3,000 kilometers per second",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "30,000 kilometers per second",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "299,792,458 meters per second",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 4,
+                "text": "What is the law of conservation of energy?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Energy can neither be created nor destroyed; it can only be transferred or transformed.",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Energy is directly proportional to mass and the square of the velocity.",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Every action has an equal and opposite reaction.",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "The force acting on an object is equal to the mass of the object multiplied by the acceleration.",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 5,
+                "text": "What is the unit of measurement for frequency?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Hertz",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Watt",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Ampere",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Joule",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 6,
+                "text": "What is the phenomenon called when light waves change direction as they pass from one medium to another?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Refraction",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Reflection",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Diffraction",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Interference",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 7,
+                "text": "What is the fundamental unit of electric charge?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Coulomb",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Ohm",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Farad",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Watt",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 8,
+                "text": "What is the force that opposes the motion of objects through a fluid?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Friction",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Gravity",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Tension",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Drag",
+                    "isCorrect": true
+                  }
+                ]
+              },
+              {
+                "id": 9,
+                "text": "What is the formula to calculate force?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Force = Mass × Velocity",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Force = Mass × Acceleration",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Force = Work ÷ Time",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Force = Energy ÷ Distance",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              {
+                "id": 10,
+                "text": "What is the process by which a substance changes from a solid directly to a gas without passing through the liquid phase?",
+                "options": [
+                  {
+                    "id": 1,
+                    "label": "A",
+                    "text": "Sublimation",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": 2,
+                    "label": "B",
+                    "text": "Evaporation",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 3,
+                    "label": "C",
+                    "text": "Condensation",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": 4,
+                    "label": "D",
+                    "text": "Melting",
+                    "isCorrect": false
+                  }
+                ]
+              }
+            ]
+          
+          
+    }
+]
