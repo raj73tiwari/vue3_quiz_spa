@@ -6,6 +6,7 @@ import quizes from "../assets/data/questions.json"
 import QuestionHeader from '../components/QuestionHeader.vue';
 import QuestionAnswers from '../components/QuestionAnswers.vue';
 import Result from '../components/Result.vue';
+import gsap from "gsap"
 
 const route = useRoute()
 const quiz = quizes.find(q => q.id === parseInt(route.params.id))
@@ -39,7 +40,6 @@ const checkUpdate = (val) => {
 
 
 
-
 </script>
 
 <template>
@@ -64,8 +64,10 @@ const checkUpdate = (val) => {
             <i v-else class="bi bi-x-circle "></i>
     
         </div>
-
-        <QuestionAnswers :question="quiz.questions[currentQueIndex]" @selected="checkUpdate" />
+        
+          <QuestionAnswers :question="quiz.questions[currentQueIndex]" @selected="checkUpdate" />  
+        
+        
     </div>
     <div v-else class="box result">
         <Result  :result="`${ correctAns }/${ quiz.questions.length }`"/>

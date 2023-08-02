@@ -47,6 +47,7 @@ h1 {
 }
 
 
+
 .col-4 {
     display: flex;
     align-items: center;
